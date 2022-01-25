@@ -1,5 +1,4 @@
 # assignment1
-# assignment1
 # Flix
 
 *Destiny Ghafoor
@@ -26,7 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="![](https://i.imgur.com/mE4HPlM.gif)
+<(https://i.imgur.com/mE4HPlM.gif)
 " width=250><br>
 
 ### Notes
